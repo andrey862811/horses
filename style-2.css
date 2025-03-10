@@ -511,7 +511,7 @@
     margin-left: 200px;
   }
 
-  .baner2_pc {
+  .baner2 {
     background-image: url("img/4_pc экран.jpg");
     background-position: center;
     background-repeat: no-repeat;
@@ -791,7 +791,7 @@
   }
 
   .baner4 {
-    background-image: url("img/фон_зима 1.jpg");
+    background-image: url("img_pc/фон_зима 1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
