@@ -1035,8 +1035,8 @@
     margin-top: 380px;
   }
 
-  .cart {
-    background-image: url("img/bg.jpg");
+  .cart_pc {
+    background-image: url("img_pc/bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
 
