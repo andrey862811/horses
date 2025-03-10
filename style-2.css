@@ -511,8 +511,8 @@
     margin-left: 200px;
   }
 
-  .baner2 {
-    background-image: url("img/4 экран.jpg");
+  .baner2_pc {
+    background-image: url("img/4_pc экран.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
