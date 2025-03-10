@@ -253,8 +253,8 @@
     max-width: 100%;
   }
 
-  .maksimys-pc {
-    background-image: url("img-pc/background.jpg");
+  .maksimys_pc {
+    background-image: url("img_pc/background.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
